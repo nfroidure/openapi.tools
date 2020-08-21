@@ -1505,3 +1505,15 @@
     existing OpenAPI specs.
   v2: true
   v3: true
+  
+- name: whook
+  category:
+   - server
+  language: TypeScript
+  link: https://github.com/nfroidure/whook
+  github: https://github.com/nfroidure/whook
+  description:
+    OpenAPI 3 based NodeJS server.
+  v2: false
+  v3: true
+
